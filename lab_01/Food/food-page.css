@@ -39,7 +39,10 @@ p{
     margin: 0;
 }
 
-
+.meat{
+    border-radius: 25px;
+    width:75%;
+}
 .recent_posts{
     width: 28%;
     float: left;
