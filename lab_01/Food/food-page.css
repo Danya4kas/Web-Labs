@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+}
+
+main {
+    margin: 32px;
+}
+
+header {
+    width: 100%;
+    height: 170px;
+    margin: auto;
+    background-size: center;
+    background: url(images/header.jpg);
+}
+
+p{
+    margin-top: 1rem;
+    font-size: 1.2rem;
+}
+
+
+.text_header {
+    padding: 4rem;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+
+.recent_posts{
+    width: 28%;
+    float: left;
+    margin: auto;
+    padding-right: 30px;
+}
+
+.recent_posts img {
+    width: 100%;
+    margin-top: 1rem;
+    border-radius: 3rem;
+}
+
+.recent_posts h1 {
+    padding-bottom: 30px;
+}
+
+.food_topic{
+    float: left;
+    width: 60%;
+    padding-left: 60px;
+}
+
+.food_theme {
+    width: 90%;
+    margin-bottom: 20px;
+}
+
+.food_theme button {
+    background: none;
+    border: 1px solid #ec5353;
+    color: #ec5353;
+    padding: 7px 20px;
+    border-radius: 16px;
+    margin-top: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease; 
+}
+
+.food_theme button:hover {
+    background-color: #ec5353; 
+    color: white; 
+    transform: scale(1.05); 
+}
+
+.date{
+    margin-top: 1rem;
+}
+
+.date_2{
+    margin-bottom: 1rem;
+}
+
+.more_btn{
+    background: none;
+    border: 1px solid #ec5353;
+    color: #ec5353;
+    padding: 7px 20px;
+    border-radius: 16px;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+.more_btn:hover{
+    background-color: #ec5353;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    color: white; 
+    transform: scale(1.05); 
+}
+
+
+.food_theme img {
+    width: 100%;
+    margin-top: 1rem;
+    border-radius: 3rem;
+}
+
