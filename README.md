@@ -11,4 +11,7 @@ Lab_03
 
 https://danya4kas.github.io/Web-Labs/lab_03/Planets/planets.html
 
+Thanks for visiting:)
+
+© Danya4ka 
 
