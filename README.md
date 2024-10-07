@@ -15,6 +15,12 @@ Lab_03
 
 https://danya4kas.github.io/Web-Labs/lab_03/Planets/planets.html
 
+Lab_06
+
+https://danya4kas.github.io/Web-Labs/lab_06/prompt.html
+
+
+
 Thanks for visiting:)
 
 © Danya4ka 
