@@ -19,6 +19,12 @@ Lab_06
 
 https://danya4kas.github.io/Web-Labs/lab_06/prompt.html
 
+Lab_07
+
+https://danya4kas.github.io/Web-Labs/lab_07/roulette.html
+
+
+
 
 
 Thanks for visiting:)
