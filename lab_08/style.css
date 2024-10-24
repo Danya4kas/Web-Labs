@@ -1,0 +1,95 @@
+*{
+    margin:0;
+    padding:0;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#game-container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+#image-mouse {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    transition: transform 0.2s ease;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ©Danya4kas game */
