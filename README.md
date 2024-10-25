@@ -25,7 +25,7 @@ https://danya4kas.github.io/Web-Labs/lab_07/roulette.html
 
 Lab_08
 
-https://danya4kas.github.io/Web-Labs/lab_08/mouse_game.html
+https://danya4kas.github.io/Web-Labs/lab_08/mouse_game
 
 Lab_09
 
