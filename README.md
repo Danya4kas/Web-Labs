@@ -31,6 +31,10 @@ Lab_09
 
 https://danya4kas.github.io/Web-Labs/lab_09/folder
 
+Lab_10
+
+https://danya4kas.github.io/Web-Labs/lab_10/memory_game
+
 
 
 
