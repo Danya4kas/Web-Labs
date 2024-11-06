@@ -17,7 +17,7 @@ https://danya4kas.github.io/Web-Labs/lab_03/Planets/planets
 
 Lab_04
 
-https://danya4kas.github.io/Web-Labs/lab_03/Museum/museum
+https://danya4kas.github.io/Web-Labs/lab_04/Museum/museum
 
 Lab_06
 
