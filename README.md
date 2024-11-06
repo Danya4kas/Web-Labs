@@ -15,6 +15,10 @@ Lab_03
 
 https://danya4kas.github.io/Web-Labs/lab_03/Planets/planets
 
+Lab_04
+
+https://danya4kas.github.io/Web-Labs/lab_03/Museum/museum
+
 Lab_06
 
 https://danya4kas.github.io/Web-Labs/lab_06/prompt
