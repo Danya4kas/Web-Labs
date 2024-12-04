@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ededfa;
+    font-family: Arial, sans-serif;
+}
+
+
+.controls {
+    margin-bottom: 20px;
+    margin-right: 7rem;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    background: linear-gradient(90deg, #ff6b6b, #ffcc5c, #4ecdc4);
+    -webkit-background-clip: text;
+    color: transparent;
+    padding: 10px;
+    margin-top: 20px;
+    margin-right: 8rem;
+    border-radius: 8px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.title:hover {
+    transform: scale(1.05);
+}
+
+.button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #3498db;
+    color: #ffffff;
+}
+
+#startGame {
+    margin-right: 7rem;
+    margin-top: 1.2rem;
+}
+
+.button:hover {
+    background-color: #2980b9;
+}
+
+.game-board {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    grid-gap: 10px;
+    margin-top: 20px;
+}
+
+.card {
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    color: #ffffff;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.card.matched,
+.card.flipped {
+    background-color: #26ce6e;
+    cursor: default;
+    border-radius: 5rem;
+}
+
+.card.hidden {
+    background-color: #18a0e6;
+    color: transparent;
+    border-radius: 5rem;
+}
+
+.scoreboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 31px;
+    margin-top: 25px;
+}
+
+.scoreboard p {
+    font-size: 18px;
+    margin: 5px 0;
+}
+
+
+#timer {
+    font-size: 18px;
+    margin: 5px 0;
+    color: #e74c3c; 
+}
+
+.container {
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Danya4kas game */
