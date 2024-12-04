@@ -21,29 +21,35 @@ https://danya4kas.github.io/Web-Labs/lab_04/Museum/museum
 
 Lab_06
 
-https://danya4kas.github.io/Web-Labs/lab_06/prompt
+https://danya4kas.github.io/Web-Labs/lab_06/calculator
 
 Lab_07
 
-https://danya4kas.github.io/Web-Labs/lab_07/roulette
+https://danya4kas.github.io/Web-Labs/lab_07/guess_number
 
 Lab_08
 
-https://danya4kas.github.io/Web-Labs/lab_08/mouse_game
+https://danya4kas.github.io/Web-Labs/lab_08/file_manager
 
 Lab_09
 
-https://danya4kas.github.io/Web-Labs/lab_09/folder
+https://danya4kas.github.io/Web-Labs/lab_09/cards
 
 Lab_10
 
-https://danya4kas.github.io/Web-Labs/lab_10/memory_game
+https://danya4kas.github.io/Web-Labs/lab_10/tanks
 
 Lab_11
 
-https://danya4kas.github.io/Web-Labs/lab_11/planets
+https://danya4kas.github.io/Web-Labs/lab_11/jobs_filter
 
+Lab_12
 
+https://danya4kas.github.io/Web-Labs/lab_12/pokemon
+
+Lab_13
+
+https://danya4kas.github.io/Web-Labs/lab_13/dumnyjson
 
 
 
