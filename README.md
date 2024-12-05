@@ -60,7 +60,7 @@ https://danya4kas.github.io/Web-Labs/lab_11/jobs_filter
 
 Lab_12
 
-https://danya4kas.github.io/Web-Labs/lab_12/pokemon
+https://danya4kas.github.io/Web-Labs/lab_12/public/index
 
 Lab_13
 
