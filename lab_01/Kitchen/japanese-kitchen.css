@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    font-size: 100%;
+}
+
+main::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+body {
+    margin: auto;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    background: url(images/dark-wood.jpg);
+}
+
+header {
+    width: 70%;
+    margin: auto;
+    background: url(images/header-page.jpg);
+    background-size: cover;
+    height: 116px;
+}
+
+nav {
+    width: 70%;
+    margin: auto;
+    background: url(images/header-page.jpg);
+}
+
+nav ul {
+    border-top: 2px solid #5a4233;
+    border-bottom: 2px solid #5a4233;
+    text-align: left;
+    padding: 5px 0 5px 20px;
+}
+
+nav ul li {
+    display: inline-block;
+    padding-right: 35px;
+}
+
+nav a {
+    color: #ffffff;
+    border-top: 2px solid #5a4233;
+    border-bottom: 2px solid #5a4233;
+    text-align: left;
+    padding: 5px 0 5px 20px;
+    transition: background-color 0.5s ease, transform 0.5s ease;
+}
+
+nav ul li:first-of-type a {
+    color: black
+}
+
+nav a:hover {
+    color: #000000;
+    transform: scale(1.1);
+}
+
+header h1 {
+    padding-top: 40px;
+    padding-right: 20px;
+    font-size: 2.5rem;
+    float: right;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #ffffff;
+    color: black;
+    cursor: pointer;
+}
+
+p {
+    color: #666666;
+}
+
+h3 {
+    padding-bottom: 15px;
+    color: #dec47b;
+}
+
+
+
+nav ul {
+    border-top: 2px solid #5a4233;
+    border-bottom: 2px solid #5a4233;
+    text-align: left;
+    padding: 5px 0 5px 20px;
+}
+
+.text_comment {
+    padding-top: 5px;
+}
+
+
+article::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+
+
+main {
+    width: 70%;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+
+section.courses {
+    background: none;
+    float: left;
+    width: 74%;
+    border-right: 1px solid #f3f3f3;
+    padding: 20px;
+}
+
+aside {
+    float: right;
+    width: 25%;
+    padding: 20px 10px;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+
+article figure {
+    float: left;
+    width: 50%;
+    border: 1px solid #f3f3f3;
+    margin-right: 20px;
+    padding: 5px;
+}
+
+img {
+    transition: transform 0.5s ease;
+    width: 100%;
+    cursor: pointer;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+h2 {
+    color: #666666;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 10px 0;
+}
+
+
+
+.footer_header {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #dd6580;
+    padding-bottom: 2px;
+    padding-left: 1rem;
+}
+
+.footer_links {
+    border-bottom: 1px solid #f3f3f3;
+    padding: 15px 10px;
+}
+
+aside ul li a {
+    color: #dd6580;
+    text-decoration: none;
+}
+
+aside ul li a:hover {
+    color: #951b36;
+    transition: background-color 0.5s ease, transform 0.5s ease;
+}
+
+footer {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 10px 20px;
+    background-color: #adaca8;
+    color: #ffffff;
+    text-align: center;
+    border-top: 2px solid #5a4233;
+
+}
+
+
+.footer_links {
+    padding: 15px 10px;
+    border-bottom: 1px solid #f3f3f3;
+}
