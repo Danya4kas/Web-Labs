@@ -22,7 +22,7 @@ function App() {
   };
 
   const closeInfo = () => {
-    setSelectedPokemon(null);  // Закрытие модального окна
+    setSelectedPokemon(null);  
   };
 
   return (
